@@ -2,7 +2,7 @@
 This was a final project with the prompt to create a mathematical model with biological implications. The full report will be linked:
 [Biol301_finalproject_glay.pdf](https://github.com/glayyang/Biomathematics-project/files/10550858/Biol301_finalproject_glay.pdf)
 
-Maxima was the software used to code the math and plot phase planes. As GitHub doesn't support Maxima files the code will be entered below:
+Maxima doesn't always work as intended for me so in case the files don't work I've included the code below.
 
 Basic math done to solve for equilibria (ahat and phat) of the equations developed in the report:
 
