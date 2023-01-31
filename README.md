@@ -79,7 +79,6 @@ Model, i.e. equations to plot:
 	;
 
  -->	popA[[r1:0.1, r2:0.1, ϱ1:0.0005, ϱ2:0.0005, P0:100, A0:100, m:10], 2];
-(popA[[r1)	109.4625
 
  -->	list: makelist([popP[[r1:0.1, r2:0.1, ϱ1:0.0005, ϱ2:0.0005, P0:100, A0:100, m:10], t],popA[[r1:0.1, r2:0.1, ϱ1:0.0005, ϱ2:0.0005, P0:100, A0:100, m:10], t]], t, 0, 50)$
 	wxplot2d([discrete, list], [t, 0, 50], [xlabel, "Pythons"], [ylabel, "Alligator"]);
